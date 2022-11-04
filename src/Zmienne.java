@@ -39,7 +39,13 @@ public class Zmienne {
 
         // https://github.com/przemjan/trzeciaigr22022
         // windows r
+        // \\ubuckp
         // public/janisz
         // uporządkuj
+
+
+        // Tworzenie i testowanie programów i aplikacji
+
+        // Pracownia urządzeń i sieci komputerowych
     }
 }
