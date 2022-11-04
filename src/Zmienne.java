@@ -36,5 +36,7 @@ public class Zmienne {
         boolean isSlonce = false; // true
 
 
+
+        // https://github.com/przemjan/trzeciaigr22022
     }
 }
