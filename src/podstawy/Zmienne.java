@@ -1,3 +1,5 @@
+package podstawy;
+
 public class Zmienne {
     public static void main(String[] args) {
 
@@ -35,9 +37,15 @@ public class Zmienne {
 
         boolean isSlonce = false; // true
 
+        double podstawa = 3, wykladnik =4;
+
+        double potega = Math.pow(podstawa, wykladnik);
+
 
 
         // https://github.com/przemjan/trzeciaigr22022
+
+
         // windows r
         // \\ubuckp
         // public/janisz

@@ -1,4 +1,5 @@
-import java.util.Locale;
+package podstawy;
+
 import java.util.Scanner;
 
 public class ScannerDemo {

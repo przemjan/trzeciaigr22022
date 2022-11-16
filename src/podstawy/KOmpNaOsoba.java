@@ -1,3 +1,5 @@
+package podstawy;
+
 public class KOmpNaOsoba {
     public static void main(String[] args) {
 

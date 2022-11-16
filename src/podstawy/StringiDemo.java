@@ -1,3 +1,5 @@
+package podstawy;
+
 public class StringiDemo {
     public static void main(String[] args) {
 
