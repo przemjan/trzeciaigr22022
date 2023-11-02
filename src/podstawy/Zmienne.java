@@ -43,7 +43,7 @@ public class Zmienne {
 
 
 
-        // https://github.com/przemjan/trzeciaigr22022
+        // https://github.com/przemjan/trzeciaigr22022  
 
 
         // windows r
