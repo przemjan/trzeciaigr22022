@@ -55,5 +55,7 @@ public class Zmienne {
         // Tworzenie i testowanie programów i aplikacji
 
         // Pracownia urządzeń i sieci komputerowych
+
+        //--module-path "C:\Java\javafx-sdk-17.0.2\lib" --add-modules javafx.controls,javafx.fxml,javafx.media
     }
 }
